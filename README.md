@@ -1,6 +1,6 @@
 # Visualizing Data with Leaflet
 
-## Background
+## Challenge desription
 
 ![1-Logo](Images/1-Logo.png)
 
