@@ -4,7 +4,8 @@
 
 ![1-Logo](Images/1-Logo.png)
 
-The USGS (the United States Geological Survey) is interested in building a new set of tools that will allow them visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding..) on issues facing our planet.
+The USGS (the United States Geological Survey) collects a massive amount of data from all over the world each day, I visualized their data and built an earthquake map.
+
 
 ### Visualization
 I visualized an earthquake data set.
@@ -12,7 +13,7 @@ I visualized an earthquake data set.
 
 
 
-1. **How to get data set**
+1. **Data**
 
    ![3-Data](Images/3-Data.png)
 
